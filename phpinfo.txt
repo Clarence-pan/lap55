@@ -1,7 +1,7 @@
 phpinfo()
 PHP Version => 5.5.38
 
-System => Linux a6e206a92933 3.10.0-514.10.2.el7.x86_64 #1 SMP Fri Mar 3 00:04:05 UTC 2017 x86_64
+System => Linux 63ae03bc01d5 4.9.13-moby #1 SMP Sat Mar 25 02:48:44 UTC 2017 x86_64
 Build Date => Jul 21 2016 12:50:22
 Server API => Command Line Interface
 Virtual Directory Support => disabled
@@ -575,7 +575,7 @@ WDDX Session Serializer => enabled
 xhprof
 
 xhprof => 0.9.2
-CPU num => 1
+CPU num => 2
 
 xml
 
@@ -629,22 +629,22 @@ Environment
 
 Variable => Value
 PATH => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-HOSTNAME => a6e206a92933
+HOSTNAME => 63ae03bc01d5
 HOME => /root
 
 PHP Variables
 
 Variable => Value
 _SERVER["PATH"] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-_SERVER["HOSTNAME"] => a6e206a92933
+_SERVER["HOSTNAME"] => 63ae03bc01d5
 _SERVER["HOME"] => /root
 _SERVER["PHP_SELF"] => 
 _SERVER["SCRIPT_NAME"] => 
 _SERVER["SCRIPT_FILENAME"] => 
 _SERVER["PATH_TRANSLATED"] => 
 _SERVER["DOCUMENT_ROOT"] => 
-_SERVER["REQUEST_TIME_FLOAT"] => 1494263833.968
-_SERVER["REQUEST_TIME"] => 1494263833
+_SERVER["REQUEST_TIME_FLOAT"] => 1494272253.3025
+_SERVER["REQUEST_TIME"] => 1494272253
 _SERVER["argv"] => Array
 (
 )
